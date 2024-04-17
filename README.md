@@ -1,4 +1,6 @@
 # Moin, Lasse hier👋
++ Student bei der [Fielmann Group AG](fielmann.com)
++ und [Nordakademie Hochschule der Wirtschaft](nordakademie.de)
 <table align="center">
   <tr>
     <th width="10000pt"><h3 align="center">Verlinkung</h3></th>
